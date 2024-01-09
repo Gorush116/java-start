@@ -7,10 +7,10 @@ public class ScannerWhileEx4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int option = 0;
-        String product = "";
-        int price = 0;
-        int quantity = 0;
+        int option;
+        String product;
+        int price;
+        int quantity;
         int sum = 0;
 
         while (true) {
